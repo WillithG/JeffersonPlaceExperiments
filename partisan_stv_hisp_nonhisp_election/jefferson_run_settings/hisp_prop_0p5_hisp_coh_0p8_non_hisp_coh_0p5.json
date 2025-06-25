@@ -1,0 +1,41 @@
+{
+    "bloc_voter_prop": {
+        "hisp": 0.5,
+        "non-hisp": 0.5
+    },
+    "cohesion_parameters": {
+        "hisp": {
+            "hisp": 0.8,
+            "non-hisp": 0.2
+        },
+        "non-hisp": {
+            "hisp": 0.6,
+            "non-hisp": 0.4
+        }
+    },
+    "alphas": {
+        "hisp": {
+            "hisp": 1,
+            "non-hisp": 1
+        },
+        "non-hisp": {
+            "hisp": 1,
+            "non-hisp": 1
+        }
+    },
+    "slate_to_candidates": {
+        "hisp": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5"
+        ],
+        "non-hisp": [
+            "R1",
+            "R2",
+            "R4",
+            "R5"
+        ]
+    }
+}
